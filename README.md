@@ -1,5 +1,5 @@
 # OpenCV-img_hash-Sample
-OpenCVのimg_hashモジュールを用いた画像ハッシュのサンプルです。
+Python版OpenCVのimg_hashモジュールを用いた画像ハッシュのサンプルです。
 <img src="https://user-images.githubusercontent.com/37477845/124159958-b174a400-dad6-11eb-960e-36a38f09c3de.png" loading="lazy" width="75%">
 
 # Requirement 
