@@ -1,0 +1,1 @@
+# OpenCV-img_hash-Sample
