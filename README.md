@@ -20,7 +20,7 @@ Python版OpenCVのimg_hashモジュールを用いた画像ハッシュのサン
 
 # Usage
 「OpenCV_img_hash_Sample.ipynb」をColaboratoryかJupyter notebook上で開いて実行してください。<br>
-また、画像をハッシュリスト化しpickle保存・読み込みし、類似度を比較するサンプルも用意しています。<br>
+また、画像をハッシュリスト化しpickle保存・読み込み、画像同士の類似度を比較するサンプルも用意しています。<br>
 以下のコマンドで実行できます。
 ```
 python 01_compute_sample.py
