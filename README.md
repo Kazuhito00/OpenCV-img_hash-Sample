@@ -15,7 +15,7 @@ Python版OpenCVのimg_hashモジュールを用いた画像ハッシュのサン
 * Radial Variance Hashalgorithm
 
 各アルゴリズムのパフォーマンスチャートは以下です。<br>
-<img src="https://user-images.githubusercontent.com/37477845/124160871-aec67e80-dad7-11eb-88d6-8f1e914aed4c.png" loading="lazy" width="75%"><br>
+<img src="https://user-images.githubusercontent.com/37477845/124160871-aec67e80-dad7-11eb-88d6-8f1e914aed4c.png" loading="lazy" width="95%"><br>
 ※OpenCVドキュメント Performance under different attacksより引用
 
 # Usage
