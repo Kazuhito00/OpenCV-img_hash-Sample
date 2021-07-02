@@ -28,7 +28,8 @@ python 02_compare_sample.py
 ```
 
 # Reference
-[OpenCV:image hashing algorithms](https://docs.opencv.org/master/d4/d93/group__img__hash.html)
+* [OpenCV:image hashing algorithms](https://docs.opencv.org/master/d4/d93/group__img__hash.html)
+* [【Python】OpenCV img_hashモジュールで画像ハッシュ計算・比較](https://zenn.dev/kazuhito/articles/1dc73eeb7e1297)
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
